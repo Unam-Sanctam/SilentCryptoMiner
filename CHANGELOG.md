@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-5f78171ebd72.js"></script>
   
 
-  <title>SilentCryptoMiner/README.md at master · UnamSanctam/SilentCryptoMiner · GitHub</title>
+  <title>SilentCryptoMiner/CHANGELOG.md at master · UnamSanctam/SilentCryptoMiner · GitHub</title>
 
 
 
@@ -80,7 +80,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="BC88:6DE6:19A3F73:25EFEA2:641EB72C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3fb9d599445fa614eb531ef85f9de825ea8792b1d6c2a78f985a3730cf07b806" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCQzg4OjZERTY6MTlBM0Y3MzoyNUVGRUEyOjY0MUVCNzJDIiwidmlzaXRvcl9pZCI6IjU2MjQ3Mjg2MDg5MTEwNDY0NDQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="db228e07d090f0ee86b1572aaea6277474bb9f79a4526fea2f457d01e4ffc954" data-pjax-transient="true"/>
+  <meta name="request-id" content="BC98:675D:1A97175:273E9C8:641EB72C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3c60d5c88281c937873c76b2d403066d80e5035af4f74317dd99a6196d18f842" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCQzk4OjY3NUQ6MUE5NzE3NToyNzNFOUM4OjY0MUVCNzJDIiwidmlzaXRvcl9pZCI6IjY2ODY0MDIzNDM2MDg0MzI0MjgiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="30e9fd707dbf1db937708c1390112c8d6146803917e7345d3fdb5d36f055180c" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:425766154" data-turbo-transient>
@@ -114,13 +114,13 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more. - SilentCryptoMiner/README.md at master · UnamSanctam/SilentCryptoMiner">
+      <meta name="description" content="A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more. - SilentCryptoMiner/CHANGELOG.md at master · UnamSanctam/SilentCryptoMiner">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f0effcf66ccf42e13f0b9d360f5b4f0003b1b6c0a80fe6e28e4346e93ebe3ea4/UnamSanctam/SilentCryptoMiner" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="SilentCryptoMiner/README.md at master · UnamSanctam/SilentCryptoMiner" /><meta name="twitter:description" content="A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more. - SilentCryptoMiner/README.md at master · UnamSanctam/SilentCryptoMiner" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/f0effcf66ccf42e13f0b9d360f5b4f0003b1b6c0a80fe6e28e4346e93ebe3ea4/UnamSanctam/SilentCryptoMiner" /><meta property="og:image:alt" content="A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more. - SilentCryptoMiner/README.md at master · UnamSanctam/SilentCryptoMiner" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="SilentCryptoMiner/README.md at master · UnamSanctam/SilentCryptoMiner" /><meta property="og:url" content="https://github.com/UnamSanctam/SilentCryptoMiner" /><meta property="og:description" content="A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more. - SilentCryptoMiner/README.md at master · UnamSanctam/SilentCryptoMiner" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f0effcf66ccf42e13f0b9d360f5b4f0003b1b6c0a80fe6e28e4346e93ebe3ea4/UnamSanctam/SilentCryptoMiner" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="SilentCryptoMiner/CHANGELOG.md at master · UnamSanctam/SilentCryptoMiner" /><meta name="twitter:description" content="A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more. - SilentCryptoMiner/CHANGELOG.md at master · UnamSanctam/SilentCryptoMiner" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/f0effcf66ccf42e13f0b9d360f5b4f0003b1b6c0a80fe6e28e4346e93ebe3ea4/UnamSanctam/SilentCryptoMiner" /><meta property="og:image:alt" content="A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more. - SilentCryptoMiner/CHANGELOG.md at master · UnamSanctam/SilentCryptoMiner" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="SilentCryptoMiner/CHANGELOG.md at master · UnamSanctam/SilentCryptoMiner" /><meta property="og:url" content="https://github.com/UnamSanctam/SilentCryptoMiner" /><meta property="og:description" content="A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more. - SilentCryptoMiner/CHANGELOG.md at master · UnamSanctam/SilentCryptoMiner" />
       
     <link rel="assets" href="https://github.githubassets.com/">
 
@@ -149,7 +149,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
 
 
@@ -204,7 +204,7 @@
         <div class="flex-1">
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
             class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="61649df68c37583da83bff3f0fc666702c63ec7fe249663a1034f9d49e70d958"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="08a4e0f9d142a33cf80f41d37fa764b9fd43ddae9d9dbfda36b0b298305c11e8"
           >
             Sign&nbsp;up
           </a>
@@ -579,7 +579,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="V4OnuAnqkTQe+twQ3SUajnIdkSKYrm8o2ZOV2o8GqbGwPY7Qu1ner2SLBUCHElsME5xbTWz9utPv40PF8o/XQw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="m4bhdrN2H/2YhFDGf8ZkZNbNOAQgMHNpTW+VSGq1I2lGWfQ97EbxXoHiDt1LaU+rvx8ErHVz7X093rEvjZiluA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -759,9 +759,9 @@
             </div>
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FUnamSanctam%2FSilentCryptoMiner%2Fblob%2Fmaster%2FREADME.md"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FUnamSanctam%2FSilentCryptoMiner%2Fblob%2Fmaster%2FCHANGELOG.md"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5891f12028026ad64f576c1efa78ac1eeb28d095adb639e91b2f5cb094bd9256"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c014504e85c912af4e6c2093e4883318efff3fcc52fd8327991609ba092ef356"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
@@ -769,7 +769,7 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=UnamSanctam%2FSilentCryptoMiner"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5891f12028026ad64f576c1efa78ac1eeb28d095adb639e91b2f5cb094bd9256"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c014504e85c912af4e6c2093e4883318efff3fcc52fd8327991609ba092ef356"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -875,13 +875,13 @@
       
 
   <li>
-            <a href="/login?return_to=%2FUnamSanctam%2FSilentCryptoMiner" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2697cad18f67c049db7ff2bf9f5ec86007b0295685c9cff20d793d830b112808" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+            <a href="/login?return_to=%2FUnamSanctam%2FSilentCryptoMiner" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a9c85cd9275a5c7184ab1ec496f171976a1d561a65d471facec78cb9d984d985" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
 </a>  </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FUnamSanctam%2FSilentCryptoMiner" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:425766154,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6638a5fbf00ad4d9b277d80844bfb4fa347ce20c73755e3c60061669aa2dc0d1" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FUnamSanctam%2FSilentCryptoMiner" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:425766154,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="24876e8a9fc224569ae60c2b1cf492b048b2135a0ecac0ddb114b3453bbe083b" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="178" data-view-component="true" class="Counter">178</span>
@@ -890,7 +890,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2FUnamSanctam%2FSilentCryptoMiner" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:425766154,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c0f42f93c7a3fb56f62b68df7faa459efec17f395947f35c321c63822f95c192" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2FUnamSanctam%2FSilentCryptoMiner" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:425766154,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="aeb3dfdd996620b625c6f3f58522cf0a9ced4fd6de6a913b0eb88035848dc5fa" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1064,7 +1064,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/UnamSanctam/SilentCryptoMiner/blob/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/UnamSanctam/SilentCryptoMiner/blob/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/CHANGELOG.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1072,7 +1072,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="de4916fe932789c44dbe3e8ee2c23044d6ff20c8b8a1c568827e18ffed0e32a5">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="db84d8fb1b435839a903fd709a9ce8c5081d0862d029840bfd6f74449188a118">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -1153,7 +1153,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/UnamSanctam/SilentCryptoMiner/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/UnamSanctam/SilentCryptoMiner/blob/{{ urlEncodedRefName }}/CHANGELOG.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -1195,7 +1195,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/UnamSanctam/SilentCryptoMiner/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/UnamSanctam/SilentCryptoMiner/blob/{{ urlEncodedRefName }}/CHANGELOG.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -1256,7 +1256,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/UnamSanctam/SilentCryptoMiner"><span>SilentCryptoMiner</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/UnamSanctam/SilentCryptoMiner"><span>SilentCryptoMiner</span></a></span></span><span class="separator">/</span><strong class="final-path">CHANGELOG.md</strong>
   </h2>
     <a href="/UnamSanctam/SilentCryptoMiner/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -1267,7 +1267,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1ec7209ebfd1a7e0ac64ca94f25530b89f56e9faaa95fe1edcb6d73dc23f3914" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/UnamSanctam/SilentCryptoMiner/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2f948703be926b8d67ababf6a180118ad9c82065a24a443b5a0ed54621025722" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/UnamSanctam/SilentCryptoMiner/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1279,13 +1279,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="CHANGELOG.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/UnamSanctam/SilentCryptoMiner/blob/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/UnamSanctam/SilentCryptoMiner/blob/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/CHANGELOG.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1316,7 +1316,7 @@
     <include-fragment src="/UnamSanctam/SilentCryptoMiner/spoofed_commit_check/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/UnamSanctam/SilentCryptoMiner/contributors/master/README.md" class="commit-loader">
+  <include-fragment src="/UnamSanctam/SilentCryptoMiner/contributors/master/CHANGELOG.md" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1346,8 +1346,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}"
-  data-menu-hydro-click-hmac="c488a153c07b5551d2467892d30c5253854be24ad3bd8e9a2e35f2a559e188eb"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}"
+  data-menu-hydro-click-hmac="d86fa85faaf5304319ec87679179e88e5c294ef2bd858395b0acc22f7b4aa51e"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -1376,23 +1376,23 @@
         </div>
 
       <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#silentcryptominer-v310---miner-for-eth-etc-xmr-rtm--many-more">SilentCryptoMiner v3.1.0 - Miner for ETH, ETC, XMR, RTM &amp; many more</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#main-features">Main Features</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#downloads">Downloads</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#wiki">Wiki</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#web-panel">Web Panel</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#changelog">Changelog</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#310-31102022">3.1.0 (31/10/2022)</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#302-09092022">3.0.2 (09/09/2022)</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#301-07092022">3.0.1 (07/09/2022)</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#300-07092022">3.0.0 (07/09/2022)</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#261-19082022">2.6.1 (19/08/2022)</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#260-18082022">2.6.0 (18/08/2022)</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#author">Author</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#contributors">Contributors</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#disclaimer">Disclaimer</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#license">License</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0201c70dd94d5d54875374ffe03783919ef73dc8d8ff50eeec244374e4b8699e" href="#donate">Donate</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#310-31102022">3.1.0 (31/10/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#302-09092022">3.0.2 (09/09/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#301-07092022">3.0.1 (07/09/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#300-07092022">3.0.0 (07/09/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#261-19082022">2.6.1 (19/08/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#260-18082022">2.6.0 (18/08/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#250-06072022">2.5.0 (06/07/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#241-06062022">2.4.1 (06/06/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#240-29052022">2.4.0 (29/05/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#232-30042022">2.3.2 (30/04/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#v231-21042022">v2.3.1 (21/04/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#v230-09042022">v2.3.0 (09/04/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#v221-05042022">v2.2.1 (05/04/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#v220-01042022">v2.2.0 (01/04/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#v210-09012022">v2.1.0 (09/01/2022)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#v201-09112021">v2.0.1 (09/11/2021)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:425766154,&quot;originating_url&quot;:&quot;https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5f4cb6cb361864693249127e284e5877a9b48d80e04ad234712a0a932bb5a3d" href="#v200-08112021">v2.0.0 (08/11/2021)</a>
       </div>
     </div>
   </details-menu>
@@ -1401,31 +1401,31 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      185 lines (150 sloc)
+      180 lines (180 sloc)
       <span class="file-info-divider"></span>
-    8.92 KB
+    11.4 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-      <a href="/UnamSanctam/SilentCryptoMiner/blob/master/README.md?plain=1" data-permalink-href="/UnamSanctam/SilentCryptoMiner/blob/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+      <a href="/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md?plain=1" data-permalink-href="/UnamSanctam/SilentCryptoMiner/blob/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/CHANGELOG.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a>      <a href="/UnamSanctam/SilentCryptoMiner/blob/master/README.md" data-permalink-href="/UnamSanctam/SilentCryptoMiner/blob/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>      <a href="/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md" data-permalink-href="/UnamSanctam/SilentCryptoMiner/blob/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/CHANGELOG.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-        <a data-permalink-href="/UnamSanctam/SilentCryptoMiner/raw/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/README.md" href="/UnamSanctam/SilentCryptoMiner/raw/master/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/UnamSanctam/SilentCryptoMiner/blame/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/README.md" href="/UnamSanctam/SilentCryptoMiner/blame/master/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/UnamSanctam/SilentCryptoMiner/raw/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/CHANGELOG.md" href="/UnamSanctam/SilentCryptoMiner/raw/master/CHANGELOG.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/UnamSanctam/SilentCryptoMiner/blame/1df8bae3c9b7f68cdf7b2602414d9884b7f5ca42/CHANGELOG.md" href="/UnamSanctam/SilentCryptoMiner/blame/master/CHANGELOG.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/UnamSanctam/SilentCryptoMiner/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JGuQPN8gT7t_JePhgvPpioAPSkxaUJweXOTH7DG8ec3Y8WPrm5uxHTaO3LZQ6ZiqXxthXF8E9GT6zaob9yAmJg" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/UnamSanctam/SilentCryptoMiner/edit/master/CHANGELOG.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5q0YXIYnnLIm5OF5OTBuMGIkT0Rp3W0j5Os0wNQYBcXX3tmt-kztt5IPNbJY2rOR14scTxlToppOFapxgPnPFw" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1435,7 +1435,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/UnamSanctam/SilentCryptoMiner/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hqvd2lTuoSuhdCoFyLxaFE9U6xqKO8QQm1qC-Wn9xjV6MS4NEFVfjejfFVIapis0kEDACo9vrGo9c-8Or2GZ3g" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/UnamSanctam/SilentCryptoMiner/edit/master/CHANGELOG.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NMkf6Na3-xc2VPb3rUUULZWhksC_i5PVeMjmIV5Z_dIFut4ZqtyKEoK_IjzMr8mMIA7By88FXGzSNniQCrg3AA" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1486,14 +1486,14 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/UnamSanctam/SilentCryptoMiner/raw/master/README.md">
+            <a class="dropdown-item" href="/UnamSanctam/SilentCryptoMiner/raw/master/CHANGELOG.md">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/UnamSanctam/SilentCryptoMiner/blame/master/README.md">
+              <a class="dropdown-item" href="/UnamSanctam/SilentCryptoMiner/blame/master/CHANGELOG.md">
                 View blame
               </a>
             </li>
@@ -1505,73 +1505,7 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/SilentCryptoMiner.png?raw=true"><img src="https://github.com/UnamSanctam/SilentCryptoMiner/raw/master/SilentCryptoMiner.png?raw=true" style="max-width: 100%;"></a></p>
-<h1 dir="auto"><a id="user-content-silentcryptominer-v310---miner-for-eth-etc-xmr-rtm--many-more" class="anchor" aria-hidden="true" href="#silentcryptominer-v310---miner-for-eth-etc-xmr-rtm--many-more"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>SilentCryptoMiner v3.1.0 - Miner for ETH, ETC, XMR, RTM &amp; many more</h1>
-<p dir="auto">A free silent (hidden) native cryptocurrency miner capable of mining ETH, ETC, XMR, RTM and much more, with many features suited for mining silently.</p>
-<p dir="auto">This miner can mine all the following algorithms and thus any cryptocurrency that uses one of them:</p>
-<details>
- <summary>List of algorithms</summary>
- <table>
-	<tbody><tr><th>Algorithm</th><th>Example Cryptocurrency</th></tr>
-	<tr><td>rx/0</td><td>Monero</td></tr>
-	<tr><td>gr</td><td>Raptoreum</td></tr>
-	<tr><td>ethash</td><td>EthereumPoW, Metaverse, Callisto, QuarkChain, EtherGem, Etho, Expanse, Ellaism</td></tr>
-	<tr><td>etchash</td><td>Ethereum Classic</td></tr>
-	<tr><td>ubqhash</td><td>Ubiq</td></tr>
-	<tr><td>cn/gpu</td><td>Conceal, Ryo, Equilibria</td></tr>
-	<tr><td>argon2/chukwa</td><td>2ACoin</td></tr>
-	<tr><td>rx/arq</td><td>ArQmA</td></tr>
-	<tr><td>cn-heavy/xhv</td><td>Haven, Blockcloud</td></tr>
-	<tr><td>cn/fast</td><td>Electronero, ElectroneroXP</td></tr>
-	<tr><td>rx/keva</td><td>Kevacoin</td></tr>
-	<tr><td>cn-pico</td><td>Kryptokrona</td></tr>
-	<tr><td>cn/half</td><td>Masari</td></tr>
-	<tr><td>argon2/ninja</td><td>NinjaCoin</td></tr>
-	<tr><td>kawpow</td><td>Ravencoin</td></tr>
-	<tr><td>rx/sfx</td><td>Safex</td></tr>
-	<tr><td>cn/r</td><td>Sumokoin</td></tr>
-	<tr><td>cn-pico/tlo</td><td>Talleo</td></tr>
-	<tr><td>argon2/chukwav2</td><td>Turtlecoin</td></tr>
-	<tr><td>cn/upx2</td><td>Uplexa</td></tr>
-	<tr><td>rx/wow</td><td>Wownero</td></tr>
-	<tr><td>cn/ccx</td><td></td></tr>
-	<tr><td>cn/zls</td><td></td></tr>
-	<tr><td>cn/double</td><td></td></tr>
-	<tr><td>cn/2</td><td></td></tr>
-	<tr><td>cn/xao</td><td></td></tr>
-	<tr><td>cn/rwz</td><td></td></tr>
-	<tr><td>cn/rto</td><td></td></tr>
-	<tr><td>cn-heavy/tube</td><td></td></tr>
-	<tr><td>cn-heavy/0</td><td></td></tr>
-	<tr><td>cn/1</td><td></td></tr>
-	<tr><td>cn-lite/1</td><td></td></tr>
-	<tr><td>cn-lite/0</td><td></td></tr>
-	<tr><td>cn/0</td><td></td></tr>
-</tbody></table>
-</details>
-<h2 dir="auto"><a id="user-content-main-features" class="anchor" aria-hidden="true" href="#main-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Main Features</h2>
-<ul dir="auto">
-<li>Native C++ - Miner installer/injector and watchdog now coded fully in C++ with no run requirements except a 64-bit OS</li>
-<li>Injection (Silent/Hidden) - Hide miner behind another process like conhost.exe, svchost.exe and others</li>
-<li>Idle Mining - Can be configured to mine at different CPU and GPU usages or not at all while computer is or isn't in use</li>
-<li>Stealth - Pauses the miner and clears the GPU memory while any of the programs in the "Stealth Targets" option are open</li>
-<li>Watchdog - Monitors the miner file and replaces the file if removed and starts it if the injected miner is closed down</li>
-<li>Multiple Miners - Can create multiple miners to run at the same time, for example one XMR (CPU) miner and one ETH (GPU) miner</li>
-<li>CPU &amp; GPU Mining - Can mine on Both CPU and GPU (Nvidia &amp; AMD)</li>
-<li>Windows Defender Exclusions - Can add exclusions into Windows Defender after being started to avoid being detected</li>
-<li>Process Killer - Constantly checks for any programs in the "Kill Targets" list and kills them if found</li>
-<li>Remote Configuration - Can get the miner settings remotely from a specified URL every 100 minutes</li>
-<li>Web Panel Support - Has support for monitoring and configuring all the miners efficiently in a free self-hosted online web panel</li>
-</ul>
-<h2 dir="auto"><a id="user-content-downloads" class="anchor" aria-hidden="true" href="#downloads"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Downloads</h2>
-<p dir="auto">Pre-Compiled: <a href="https://github.com/UnamSanctam/SilentCryptoMiner/releases">https://github.com/UnamSanctam/SilentCryptoMiner/releases</a></p>
-<p dir="auto">Example Settings: <a href="https://github.com/UnamSanctam/SilentCryptoMiner/wiki#example-settings">Example Settings</a></p>
-<h2 dir="auto"><a id="user-content-wiki" class="anchor" aria-hidden="true" href="#wiki"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Wiki</h2>
-<p dir="auto">You can find the wiki <a href="https://github.com/UnamSanctam/SilentCryptoMiner/wiki">here</a> or at the top of the page. The wiki contains information about the miner and all of its features, it also has some answers to frequently asked questions.</p>
-<h2 dir="auto"><a id="user-content-web-panel" class="anchor" aria-hidden="true" href="#web-panel"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Web Panel</h2>
-<p dir="auto">You can find the web panel that the miner officially supports here: <a href="https://github.com/UnamSanctam/UnamWebPanel">UnamWebPanel</a>. The web panel can be used to monitor your miners hashrate, status, connection settings and more. It can also be used to change the miner settings just like how the option "Remote Configuration" does it.</p>
-<h2 dir="auto"><a id="user-content-changelog" class="anchor" aria-hidden="true" href="#changelog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Changelog</h2>
-<h3 dir="auto"><a id="user-content-310-31102022" class="anchor" aria-hidden="true" href="#310-31102022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>3.1.0 (31/10/2022)</h3>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h3 dir="auto"><a id="user-content-310-31102022" class="anchor" aria-hidden="true" href="#310-31102022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>3.1.0 (31/10/2022)</h3>
 <ul dir="auto">
 <li>Changed process creation from undocumented API calls to direct system calls</li>
 <li>Added process parent spoofing with token impersonation when creating processes</li>
@@ -1646,33 +1580,145 @@
 <li>Updated XMR miner</li>
 <li>Added Polish translation (Werlrlivx)</li>
 </ul>
-<p dir="auto"><a href="/UnamSanctam/SilentCryptoMiner/blob/master/CHANGELOG.md">You can view the full Changelog here</a></p>
-<h2 dir="auto"><a id="user-content-author" class="anchor" aria-hidden="true" href="#author"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Author</h2>
+<h3 dir="auto"><a id="user-content-250-06072022" class="anchor" aria-hidden="true" href="#250-06072022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>2.5.0 (06/07/2022)</h3>
 <ul dir="auto">
-<li><strong>Unam Sanctam</strong></li>
+<li>Added language localizer to allow translations of all controls through XML</li>
+<li>Added Swedish translation</li>
+<li>Changed "Save Path" to show "Program Files" for clarity when "Run as System" and "Run as Administrator" are both enabled</li>
+<li>Moved AMSI bypass from the RunPE module into the miner to bypass Assembly.Load detections</li>
+<li>Obfuscated all remaining strings inside all files</li>
+<li>Remade manifest to reduce detections</li>
+<li>Added new advanced option to disable built-in obfuscations</li>
+<li>Updated rootkit to reduce detections and improve compatibility and reliability</li>
+<li>Improved process hollowing implementation</li>
 </ul>
-<h2 dir="auto"><a id="user-content-contributors" class="anchor" aria-hidden="true" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Contributors</h2>
+<h3 dir="auto"><a id="user-content-241-06062022" class="anchor" aria-hidden="true" href="#241-06062022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>2.4.1 (06/06/2022)</h3>
 <ul dir="auto">
-<li><strong><a href="https://github.com/Werlrlivx">Werlrlivx</a></strong> - Polish Translation</li>
-<li><strong><a href="https://github.com/Xeneht">Xeneht</a></strong> - Spanish Translation</li>
-<li><strong><a href="https://github.com/BITIW">BITIW</a></strong> - Russian Translation</li>
+<li>Removed Panthera (Panthera) algorithm due to reported collateral issues</li>
+<li>Updated ETH miner CUDA and OpenCL implementations</li>
+<li>Added ETH miner OpenCL fallback for Nvidia cards if CUDA is unavailable</li>
+<li>Fixed connections to some ghostrider pools</li>
+<li>Fixed ETH first web panel configuration and first "Remote Configuration" pool switching</li>
+<li>Fixed Clover platform support</li>
+<li>Fixed non-intended administrator permission request during normal user first installation start</li>
+<li>Fixed brief powershell window popup on administrator installation startups with "Run as System" disabled</li>
 </ul>
-<h2 dir="auto"><a id="user-content-disclaimer" class="anchor" aria-hidden="true" href="#disclaimer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Disclaimer</h2>
-<p dir="auto">I, the creator, am not responsible for any actions, and or damages, caused by this software.</p>
-<p dir="auto">You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only.</p>
-<p dir="auto">This software's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use.</p>
-<p dir="auto">By using this software, you automatically agree to the above.</p>
-<h2 dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>License</h2>
-<p dir="auto">This project is licensed under the MIT License - see the <a href="/UnamSanctam/SilentCryptoMiner/blob/master/LICENSE">LICENSE</a> file for details</p>
-<h2 dir="auto"><a id="user-content-donate" class="anchor" aria-hidden="true" href="#donate"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Donate</h2>
-<p dir="auto">XMR: 8BbApiMBHsPVKkLEP4rVbST6CnSb3LW2gXygngCi5MGiBuwAFh6bFEzT3UTufiCehFK7fNvAjs5Tv6BKYa6w8hwaSjnsg2N</p>
-<p dir="auto">BTC: bc1q26uwkzv6rgsxqnlapkj908l68vl0j753r46wvq</p>
-<p dir="auto">ETH: 0x40E5bB6C61871776f062d296707Ab7B7aEfFe1Cd</p>
-<p dir="auto">ETC: 0xd513e80ECc106A1BA7Fa15F1C590Ef3c4cd16CF3</p>
-<p dir="auto">RVN: RFsUdiQJ31Zr1pKZmJ3fXqH6Gomtjd2cQe</p>
-<p dir="auto">LINK: 0x40E5bB6C61871776f062d296707Ab7B7aEfFe1Cd</p>
-<p dir="auto">DOGE: DNgFYHnZBVLw9FMdRYTQ7vD4X9w3AsWFRv</p>
-<p dir="auto">LTC: Lbr8RLB7wSaDSQtg8VEgfdqKoxqPq5Lkn3</p>
+<h3 dir="auto"><a id="user-content-240-29052022" class="anchor" aria-hidden="true" href="#240-29052022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>2.4.0 (29/05/2022)</h3>
+<ul dir="auto">
+<li>Added new Ubqhash (ubqhash) algorithm</li>
+<li>Added new CryptoNight-GPU (cn/gpu) algorithm</li>
+<li>Added new Panthera (panthera) algorithm</li>
+<li>Added new AstroBWT V2 (astrobwt/v2) algorithm</li>
+<li>Added new option "Stealth on Fullscreen" to pause the miner when Windows reports a fullscreen program to be open on the user running the miner</li>
+<li>Added executable name to the web panel "Active Window" reporting</li>
+<li>Added executable name reporting of the found "Stealth Targets" during "Stealth" to the web panel</li>
+<li>Added UTF8 encoding to GPU and CPU name web panel reporting</li>
+<li>Added C# shellcode injector for in-memory watchdog injection without an intermediary "Shellcode Loader"</li>
+<li>Changed Task Scheduler task creation from schtasks command to powershell to greatly increase customizability of the task</li>
+<li>Changed Task Scheduler task conditions and settings to the most optimal for the miner</li>
+<li>Changed Task Scheduler task to start at system startup instead of any user login when "Run as System" is enabled</li>
+<li>Fixed Task Scheduler task on some systems when install path contains spaces</li>
+<li>Replaced many commands with obfuscated powershell versions</li>
+<li>Reworked miner installation code and methods</li>
+<li>Reworked miner checking loops to ensure correct web panel status reporting and better performance</li>
+<li>Added support for reporting to the web panel when running at least two miners of the same miner type</li>
+<li>Improved watchdog miner restoration</li>
+<li>Updated the rootkit</li>
+</ul>
+<h3 dir="auto"><a id="user-content-232-30042022" class="anchor" aria-hidden="true" href="#232-30042022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>2.3.2 (30/04/2022)</h3>
+<ul dir="auto">
+<li>Changed miner to install into Program Files if installed with "Run as System" enabled</li>
+<li>Changed miner to instead start from the Task Scheduler instead of CMD immediately after install if running as administrator</li>
+<li>Changed Icon preview to reload after loading a save</li>
+<li>Reworked "Remote Configuration" and web panel API calls for better performance, flexibility and less overhead</li>
+<li>Changed miner to immediately start reporting to the web panel on start</li>
+<li>Added new "Starting" miner status when first reporting to the web panel</li>
+<li>Added new miner version reporting to the web panel</li>
+<li>Added new currently active window reporting to the web panel</li>
+<li>Added new miner run time reporting to the web panel</li>
+<li>Inverted some advanced options for better clarity</li>
+</ul>
+<h3 dir="auto"><a id="user-content-v231-21042022" class="anchor" aria-hidden="true" href="#v231-21042022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>v2.3.1 (21/04/2022)</h3>
+<ul dir="auto">
+<li>Changed ETH miner to force desired CUDA settings, can increase hashrate on newer drivers/GPUs</li>
+<li>Changed ETH miner to not mine on integrated Intel GPUs, meaning CPUs with a GPU in them since they are not profitable and can cause lag</li>
+<li>Reworked manifest system to reduce overall detections</li>
+<li>Reduced C# detections greatly, especially helpful for those with "Shellcode Loader" disabled</li>
+<li>Changed "Entry Name" check to reallow backslashes for Task Scheduler subsections</li>
+<li>Improved "Disable Windows Update" function with better persistence and effectiveness</li>
+<li>Added advanced option to disable the miner from running after install so that it will only run on startup</li>
+</ul>
+<h3 dir="auto"><a id="user-content-v230-09042022" class="anchor" aria-hidden="true" href="#v230-09042022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>v2.3.0 (09/04/2022)</h3>
+<ul dir="auto">
+<li>Added option to disable Windows Update which stops updates from being found and installed</li>
+<li>Changed Watchdog to now run only in memory with no file dropped</li>
+<li>Added new Advanced Options form to make space for more options</li>
+<li>Added advanced option to use old Watchdog behaviour and start as a dropped file instead of only in memory</li>
+<li>Added advanced option to not overwrite old installed miners if desired</li>
+<li>Changed HTTP library to always follow redirects</li>
+<li>Decreased miner stealth and idle check loop timer for faster checks</li>
+<li>Moved process hollowing code back into DLL</li>
+<li>Added custom user level manifest</li>
+<li>Reduced some antivirus detections, mainly in C# code</li>
+<li>Cleaned up builder and miner code</li>
+<li>Fixed uninstaller</li>
+<li>Removed duplicate disable sleep command</li>
+<li>Updated miner</li>
+</ul>
+<h3 dir="auto"><a id="user-content-v221-05042022" class="anchor" aria-hidden="true" href="#v221-05042022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>v2.2.1 (05/04/2022)</h3>
+<ul dir="auto">
+<li>Added morphing to Windows Defender exclusion command to avoid static detection</li>
+<li>Added option to run/install the miner as System instead of always doing so by default</li>
+<li>Changed rootkit target program from nslookup.exe to dialer.exe and modified rootkit workflow</li>
+<li>Fixed XMR difficulty negotiation</li>
+<li>Fixed XMR worker name variable replacement</li>
+<li>Fixed XMR CUDA library locator for unicode characters</li>
+<li>Fixed missing builder events</li>
+</ul>
+<h3 dir="auto"><a id="user-content-v220-01042022" class="anchor" aria-hidden="true" href="#v220-01042022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>v2.2.0 (01/04/2022)</h3>
+<ul dir="auto">
+<li>Added custom system-wide idle detection that replaces the previous dedicated Windows API idle detection, this allows the miner to be run as "System"</li>
+<li>Changed miner to be installed with the "System" user when run as administrator, which means that it will now run when the computer is started with any user</li>
+<li>Added field to customize the entry name displayed in the startup registry and Task Scheduler</li>
+<li>Added option to automatically delete the original miner file after installation finishes</li>
+<li>Added option to disable sleep and hibernation on the computer</li>
+<li>Added option to block websites/domains from being able to be accessed by using the hosts file</li>
+<li>Fixed computer name and username convertions when containing non-ASCII characters</li>
+<li>Changed default library and installation locations to avoid path access restrictions by some programs</li>
+<li>Fixed XMR miner GPU CUDA libraries</li>
+<li>Fixed missing Watchdog Loader obfuscation step when using "Pause for Obfuscation"</li>
+<li>Improved GhostRider algorithm implementation</li>
+<li>Changed ETH miner idle sleeping</li>
+<li>Fixed minor builder bugs</li>
+<li>Cleaned up form elements</li>
+<li>Added icon file error checking</li>
+<li>Updated compilers</li>
+<li>Updated miners</li>
+</ul>
+<h3 dir="auto"><a id="user-content-v210-09012022" class="anchor" aria-hidden="true" href="#v210-09012022"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>v2.1.0 (09/01/2022)</h3>
+<ul dir="auto">
+<li>Added Ghost Rider algorithm, mainly used for the coin Raptoreum</li>
+<li>Added JSON generator inside builder for easier "Remote Configuration" and web panel configuration creation</li>
+<li>Added rootkit helper signatures to relevant files to ensure that files and processes are not hidden from the miner processes</li>
+<li>Added new "Out of free VRAM" status for the web panel if no GPU has enough current free VRAM to mine the selected coin</li>
+<li>Added "remote-config" and "api-endpoint" configuration options for the "Remote Configuration" and web panel configurations</li>
+<li>Changed save/load form serialization to also save checkbox and toggle text states</li>
+<li>Changed default "Startup" "Filename" due to certain anticheats blocking default "Startup" folder access</li>
+<li>Changed "Shellcode Loader" code and overall flow</li>
+<li>Improved rootkit stability and stealth</li>
+<li>Cleaned up messy and unclear form control names, breaks old save compatibility</li>
+</ul>
+<h3 dir="auto"><a id="user-content-v201-09112021" class="anchor" aria-hidden="true" href="#v201-09112021"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>v2.0.1 (09/11/2021)</h3>
+<ul dir="auto">
+<li>Removed "Hide File" option due to it restricting the file from being written to, thus enabling it to cause unwanted behaviour and bugs</li>
+<li>Fixed possible bug where the random encryption keys could be generated with illegal characters</li>
+<li>Fixed builder bug where it didn't clear the miner set for the Watchdog between builds</li>
+<li>Fixed Monero icon</li>
+</ul>
+<h3 dir="auto"><a id="user-content-v200-08112021" class="anchor" aria-hidden="true" href="#v200-08112021"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>v2.0.0 (08/11/2021)</h3>
+<ul dir="auto">
+<li>Initial release</li>
+</ul>
 </article>
   </div>
 
